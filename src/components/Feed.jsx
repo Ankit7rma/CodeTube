@@ -35,7 +35,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          © 2023 BKInc
+          © 2024 Ank7rma
         </Typography>
       </Box>
 
